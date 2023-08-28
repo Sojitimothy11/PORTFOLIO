@@ -1,0 +1,41 @@
+body {
+  padding: 2rem 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: rgb(177, 177, 248);
+}
+.top {
+  background-color: rgb(5, 5, 100);
+  color: #fff;
+}
+
+.top > img {
+  width: 100px;
+  border-radius: 50%;
+  padding-top: 1rem;
+  margin-left: 38rem;
+}
+.top > p {
+  padding-bottom: 2rem;
+}
+
+h2,
+h4 {
+  display: flex;
+  justify-content: center;
+}
+p {
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  border: 1px solid rgb(5, 5, 100);
+}
+a {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  margin-top: 0%;
+}
